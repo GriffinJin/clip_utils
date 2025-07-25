@@ -1,5 +1,6 @@
 [workspace]
-members = [
+members = [ "namec",
     "pwdc",
-    "realpathc"
+    "realpathc",
+    "namec"
 ]
